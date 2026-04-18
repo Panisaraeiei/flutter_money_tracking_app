@@ -1,4 +1,4 @@
-<img width="1082" height="2402" alt="localhost_57061_(Pixel 7) (1)" src="https://github.com/user-attachments/assets/039e2fab-1503-48ee-9d7f-eb4d158e7a91" />## UI Ouly HomeUi, SigninUi, SignupUi
+## UI Ouly HomeUi, SigninUi, SignupUi
 
 <img width="250" src="https://github.com/user-attachments/assets/7992213f-9b64-4c9f-9b14-f977c9f9dd1c" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
