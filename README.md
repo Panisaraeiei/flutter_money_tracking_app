@@ -1,16 +1,11 @@
-# flutter_money_tracking_app
+<img width="1082" height="2402" alt="localhost_57061_(Pixel 7) (1)" src="https://github.com/user-attachments/assets/039e2fab-1503-48ee-9d7f-eb4d158e7a91" />## UI Ouly HomeUi, SigninUi, SignupUi
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" src="https://github.com/user-attachments/assets/7992213f-9b64-4c9f-9b14-f977c9f9dd1c" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" src="https://github.com/user-attachments/assets/db34fa6d-84bc-4cad-baf7-b745beea3030" />
+<br /><br /><br />
+<img width="250" src="https://github.com/user-attachments/assets/74ee1ea0-f39f-4bb4-870b-548bce8af8f1" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" src="https://github.com/user-attachments/assets/c7282530-6d00-4806-8cc7-46be7d64ba80" />
+<br /><br /><br />
+<img width="250" src="https://github.com/user-attachments/assets/df66afae-a1b6-4562-85cf-77466b43bee5" />
